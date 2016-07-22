@@ -1,0 +1,19 @@
+PODS:
+  - Alamofire (3.4.1)
+  - HanekeSwift (0.10.1)
+  - Kingfisher (2.4.2)
+  - SnapKit (0.15.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.3)
+  - HanekeSwift
+  - Kingfisher (~> 2.4)
+  - SnapKit (~> 0.15.0)
+
+SPEC CHECKSUMS:
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  HanekeSwift: 08e47d3d0f2899ec58e5d257beba0de619aca9e8
+  Kingfisher: 05bf8d04408aaa70fcd2c8c81b9f1d0f1ad313dd
+  SnapKit: 4962eed2ee18e48cbd2b2292fffc57efe7235f87
+
+COCOAPODS: 0.39.0
