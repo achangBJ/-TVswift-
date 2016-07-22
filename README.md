@@ -6,3 +6,4 @@ pod 'Alamofire', 网络请求
 pod 'Kingfisher', 加载网络图片
 
 
+/Users/xgj/Desktop/swift直播.gif
